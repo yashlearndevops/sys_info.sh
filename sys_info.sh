@@ -9,4 +9,5 @@ echo "MEMORY USAGE: $(free -h)"
 echo "SYSTEM INFORMATION COMPLETED"
 echo "==================="
 
+echo "ALL IS WELL"
 
